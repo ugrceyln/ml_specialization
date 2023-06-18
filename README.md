@@ -68,3 +68,29 @@ The code base, quiz questions and diagrams are taken from the [Machine Learning 
 - Tensorflow
 - Tree Ensembles
 - Advice for Model Development
+
+### Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
+
+##### What we we learned ?
+- Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection
+
+- Build recommender systems with a collaborative filtering approach and a content-based deep learning method
+
+- Build a deep reinforcement learning model
+
+##### Practice Quizes and Program Assignments
+- Clustering
+- Anomaly detection
+- Collaborative Filtering
+- Recommender systems implementation
+- Content-based filtering
+- Reinforcement learning introduction
+- State-action value function
+- Continuous state spaces
+
+##### Obtained Skills
+- Collaborative Filtering
+- Unsupervised Learning
+- Recommender Systems
+- Reinforcement Learning
+- Anomaly Detection
