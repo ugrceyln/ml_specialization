@@ -15,7 +15,7 @@ The code base, quiz questions and diagrams are taken from the [Machine Learning 
 
 ### Course 1: Supervised Machine Learning: Regression and Classification
 
-##### What we we learned ?
+##### What we have learned ?
 - Build machine learning models in Python using popular machine learning libraries NumPy & scikit-learn
 
 - Build & train supervised machine learning models for prediction & binary classification tasks, including linear regression & logistic regression
@@ -40,7 +40,7 @@ The code base, quiz questions and diagrams are taken from the [Machine Learning 
 
 ### Course 2: Advanced Learning Algorithms
 
-##### What we we learned ?
+##### What we have learned ?
 - Build and train a neural network with TensorFlow to perform multi-class classification
 
 - Apply best practices for machine learning development so that your models generalize to data and tasks in the real world
@@ -71,7 +71,7 @@ The code base, quiz questions and diagrams are taken from the [Machine Learning 
 
 ### Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
 
-##### What we we learned ?
+##### What we have learned ?
 - Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection
 
 - Build recommender systems with a collaborative filtering approach and a content-based deep learning method
